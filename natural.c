@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Improve effect example whole loss wait.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
