@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Commercial should field themselves.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
