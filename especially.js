@@ -11,3 +11,6 @@ console.log("Hello, World!");
 
 # Loss traditional try produce where.
 console.log("Hello, World!");
+
+# Candidate paper short.
+console.log("Hello, World!");
