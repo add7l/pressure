@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # Visit team discover.
 puts "Hello, World!"
+
+# Raise move ahead statement near.
+puts "Hello, World!"
