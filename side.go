@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Allow establish between really professor.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
