@@ -5,3 +5,6 @@ print("Hello, World!")
 
 # Tend dark address draw training.
 print("Hello, World!")
+
+# Room common imagine.
+print("Hello, World!")
