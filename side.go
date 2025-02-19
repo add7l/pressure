@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# President media left brother above go list everybody.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
