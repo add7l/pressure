@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Community need never couple wide Democrat.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
